@@ -1,7 +1,4 @@
 ! Title: Old Bypass Paywalls Clean filter
-! Description: Filters for news sites (supports less sites than the extension/add-on)
-
-! General
 
 ||amplitude.com^$xmlhttprequest,third-party
 ||axate.io$script,third-party
